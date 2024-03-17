@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "statement": "Identify the image of the personality ? ",
+        "img": "/jinnah.jpeg",
+        "option": ["Gandhi", "Liaqat Ali Khan", "Quaid e Azam", "Allama Iqbal"],
+        "answer": "Quaid e Azam"
+    },
+    {
+        "id": 2,
+        "statement": "Identify the image of the personality ? ",
+        "img": "/saeed.jpg",
+        "option": ["Inzemam", "Amir Suhail", "Saqlain Mushtaq", "Saeed Anwer"],
+        "answer": "Saeed Anwer"
+    },
+    {
+        "id": 3,
+        "statement": "Identify the image of the personality ? ",
+        "img": "/srk.jpeg",
+        "option": ["Fawad Khan", "Shahrukh Khan", "Salman Khan", "Shahid Kapoor"],
+        "answer": "Shahrukh Khan"
+    },
+    {
+        "id": 4,
+        "statement": "Identify the image of the personality ? ",
+        "img": "/benazir.jpeg",
+        "option": ["Benazir Bhutto", "Fatima Jinnah", "Maryam Nawaz", "Asifa Bhutto"],
+        "answer": "Benazir Bhutto"
+    },
+    {
+        "id": 5,
+        "statement": "Identify the image of the personality ? ",
+        "img": "/messi.jpeg",
+        "option": ["Mabape", "Ronaldo", "David Bheckham", "Messi"],
+        "answer": "Messi"
+    },
+    {
+        "id": 6,
+        "statement": "Identify the image of the personality ? ",
+        "img": "/aungSan.jpeg",
+        "option": ["Aung San", "Margaret Thetchure", "Ucee Anda", "lee mine"],
+        "answer": "Aung San"
+    },
+    {
+        "id": 7,
+        "statement": "Identify the image of the personality ? ",
+        "img": "/iqbal.jpeg",
+        "option": ["Gandhi", "Liaqat Ali Khan", "Quaid e Azam", "Allama Iqbal"],
+        "answer": "Allama Iqbal"
+    },
+    {
+        "id": 8,
+        "statement": "Identify the image of the personality ? ",
+        "img": "/kamalAtta.jpeg",
+        "option": ["Shoukat Ali Johar", "Kamal Atta Turk", "Artagul Gazi", "Sultan Murad II"],
+        "answer": "Kamal Atta Turk"
+    },
+    {
+        "id": 9,
+        "statement": "Identify the image of the personality ? ",
+        "img": "/lee.jpeg",
+        "option": ["Dang", "Lee Kuan", "Lee vaun", "Bruce lee"],
+        "answer": "Lee Kuan"
+    },
+    {
+        "id": 10,
+        "statement": "Identify the image of the personality ? ",
+        "img": "/yavalNoah.jpeg",
+        "option": ["Zukar Burg", "George Orwell ", "Youval Noah Harari", "Peter Robinson"],
+        "answer": "Youval Noah Harari"
+    },
+    {
+        "id": 11,
+        "statement": "Identify the image of the personality ? ",
+        "img": "/charlesDicken.jpeg",
+        "option": ["Charles Dicken", "Tolstoy", "Shakespeer", "King Charles II"],
+        "answer": "Charles Dicken"
+    }
+
+]
